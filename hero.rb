@@ -1,3 +1,4 @@
+class Hero
 	def initialize(name, health=100)
 		@name = name.capitalize
 		@health = health
